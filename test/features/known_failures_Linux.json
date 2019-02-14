@@ -48,5 +48,5 @@
     "netcore-limit_string_length_compact_buffered-ip",
     "netcore-limit_container_length_compact_buffered-ip",
     "nodejs-theader_framed_binary_header_buffered-ip",
-    "nodejs-theader_framed_binary_header_buffered-ip"
+    "nodejs-theader_framed_compact_header_buffered-ip"
 ]
